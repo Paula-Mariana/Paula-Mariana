@@ -1,2 +1,4 @@
-const Person = null;
+class Person (){
+    constructor (name, )
+}
 export { Person };
