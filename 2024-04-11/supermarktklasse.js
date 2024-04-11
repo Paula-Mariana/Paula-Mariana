@@ -1,0 +1,6 @@
+class Klassa  {
+constructor ()
+ toString  ()
+
+
+}
