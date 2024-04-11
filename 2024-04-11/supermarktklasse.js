@@ -1,6 +1,6 @@
 class Klassa  {
-constructor ()
- toString  ()
+constructor () {}
+ toString  () {}
 
 
 }
